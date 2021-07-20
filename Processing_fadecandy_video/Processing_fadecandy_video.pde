@@ -5,6 +5,7 @@ OPC opc;
 final String fcServerHost = "127.0.0.1";
 final int fcServerPort = 7890;
 
+// Default location for multimedia is "data" directory
 String filename = "flag_400_300.mp4";
 // String filename = "launch1.mp4";
 // String filename = "skate01.mp4";
