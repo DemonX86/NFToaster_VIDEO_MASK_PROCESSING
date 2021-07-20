@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# LINUX ONLY!!!
+
 # Processing terminal script
 #
 # v1.0
